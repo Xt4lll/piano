@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\piano\piano\bin\Debug\netcoreapp3.1\piano.exe
+C:\Users\user\source\repos\piano\piano\bin\Debug\netcoreapp3.1\piano.deps.json
+C:\Users\user\source\repos\piano\piano\bin\Debug\netcoreapp3.1\piano.runtimeconfig.json
+C:\Users\user\source\repos\piano\piano\bin\Debug\netcoreapp3.1\piano.runtimeconfig.dev.json
+C:\Users\user\source\repos\piano\piano\bin\Debug\netcoreapp3.1\piano.dll
+C:\Users\user\source\repos\piano\piano\bin\Debug\netcoreapp3.1\piano.pdb
+C:\Users\user\source\repos\piano\piano\obj\Debug\netcoreapp3.1\piano.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\piano\piano\obj\Debug\netcoreapp3.1\piano.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\piano\piano\obj\Debug\netcoreapp3.1\piano.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\piano\piano\obj\Debug\netcoreapp3.1\piano.AssemblyInfo.cs
+C:\Users\user\source\repos\piano\piano\obj\Debug\netcoreapp3.1\piano.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\piano\piano\obj\Debug\netcoreapp3.1\piano.dll
+C:\Users\user\source\repos\piano\piano\obj\Debug\netcoreapp3.1\piano.pdb
+C:\Users\user\source\repos\piano\piano\obj\Debug\netcoreapp3.1\piano.genruntimeconfig.cache
